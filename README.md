@@ -11,7 +11,7 @@
 
 - Created - 2024-9-26
 
-- Technologies Used -  tailwind , Next
+- Technologies Used -  tailwind , React
 
 - Role - Frontend
 
